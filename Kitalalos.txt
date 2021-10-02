@@ -5,3 +5,4 @@ Igen.
 Használati tárgy?
 Igen.
 Mindennapi használati tárgy?
+Igen.
